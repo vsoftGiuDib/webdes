@@ -1,15 +1,15 @@
 { "conf" : [{
   "type":1,
-  "caption":"Frame 1",
+  "caption":"MCR",
   "position":"transform: translate3d(0px, 0px, 0px);",
   "offsetWidth":162,
   "offsetHeight":162},{
   "type":1,
-  "caption":"Frame 2",
+  "caption":"GDB",
   "position":"transform: translate3d(609px, 5px, 0px);",
   "offsetWidth":162,"offsetHeight":162},{
   "type":1,
-  "caption":"Frame 3",
+  "caption":"YSL",
   "position":"transform: translate3d(321px, 335px, 0px);",
   "offsetWidth":162,
   "offsetHeight":162}]
